@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CIDR_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../../addons/ofxAccelerometer">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxAccelerometer/src/ofxAccelerometer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxAccelerometer/src/ofxAccelerometer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxAccelerometer/changelog.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxAccelerometer/LICENSE.txt" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxBaseGui.cpp">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxBaseGui.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxBaseGui.h">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxBaseGui.h" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxButton.cpp">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxButton.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxButton.h">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxButton.h" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxGui.h">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxGui.h" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxGuiGroup.cpp">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxGuiGroup.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxGuiGroup.h">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxGuiGroup.h" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxLabel.cpp">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxLabel.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxLabel.h">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxLabel.h" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxPanel.cpp">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxPanel.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxPanel.h">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxPanel.h" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxSlider.cpp">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxSlider.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxSlider.h">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxSlider.h" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxSliderGroup.cpp">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxSliderGroup.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxSliderGroup.h">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxSliderGroup.h" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxToggle.cpp">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxToggle.cpp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxToggle.h">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxToggle.h" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../addons/ofxiOS">
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/ofxiOSExtensions.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/app/ofAppiOSWindow.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/app/ofxiOSApp.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/app/ofAppiOSWindow.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/ofxiOSConstants.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/utils/ofxiOSExternalDisplay.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/utils/ofxiOSKeyboard.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/utils/ofxiOSMapKitDelegate.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/utils/ofxiOSMapKit.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/utils/ofxiOSCoreLocation.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/utils/ofxiOSExtras.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/utils/ofxiOSMapKit.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/utils/ofxiOSExtras.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/utils/ofxiOSMapKitDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/utils/ofxiOSMapKitListener.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/utils/ofxiOSCoreLocation.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/utils/ofxiOSExternalDisplay.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/utils/ofxiOSImagePicker.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/utils/ofxiOSKeyboard.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/utils/ofxiOSImagePicker.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/video/ofxiOSVideoPlayer.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/video/ofxiOSVideoGrabber.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/video/ofxiOSVideoGrabber.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/video/AVFoundationVideoGrabber.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/video/AVFoundationVideoPlayer.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/video/AVFoundationVideoPlayer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/video/ofxiOSVideoPlayer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/video/AVFoundationVideoGrabber.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/core/ofxiOSViewController.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/core/ofxiOSEAGLView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/core/ofxiOSAppDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/core/ofxiOSEAGLView.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/core/ofxiOSAppDelegate.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/core/ofxiOSViewController.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/ofxiOS.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/gl/ES1Renderer.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/gl/ES1Renderer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/gl/EAGLView.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/gl/ES2Renderer.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/gl/ES2Renderer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/gl/EAGLView.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/gl/ESRenderer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/events/ofxiOSAlerts.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/events/ofxiOSAccelerometer.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/events/ofxiOSAlerts.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/events/ofxiOSAlertsListener.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/sound/SoundOutputStream.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/sound/SoundInputStream.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/sound/ofxiOSSoundStreamDelegate.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/sound/ofxOpenALSoundPlayer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/sound/SoundInputStream.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/sound/SoundEngine.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/sound/ofxiOSSoundStream.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/sound/ofxiOSSoundPlayer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/sound/SoundEngine.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/sound/SoundStream.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/sound/AVSoundPlayer.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/sound/SoundStream.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/sound/AVSoundPlayer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/sound/ofxiOSSoundStreamDelegate.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/sound/ofxOpenALSoundPlayer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/sound/SoundOutputStream.m" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/sound/ofxiOSSoundStream.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../addons/ofxiOS/src/sound/ofxiOSSoundPlayer.mm" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Project.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ofxiOS_Prefix.pch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bin/data/Default-568h@2x~iphone.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bin/data/Icon@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bin/data/Icon.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bin/data/Default@2x.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bin/data/Default.png" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ofxiOS-Info.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Btn.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/DigitalUI.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/AnalogUI.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ofApp.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Clock.hpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ofApp.mm" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/AnalogUI.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/DigitalUI.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Clock.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/Btn.hpp" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../libs/openFrameworks">
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/math/ofMatrix4x4.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/math/ofVec4f.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/math/ofMatrix3x3.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/math/ofMatrix3x3.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/math/ofVectorMath.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/math/ofVec2f.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/math/ofVec3f.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/math/ofMath.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/math/ofQuaternion.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/math/ofVec2f.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/math/ofMath.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/math/ofVec4f.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/math/ofMatrix4x4.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/math/ofQuaternion.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/types/ofParameter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/types/ofRectangle.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/types/ofBaseTypes.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/types/ofColor.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/types/ofPoint.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/types/ofParameterGroup.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/types/ofBaseTypes.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/types/ofParameter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/types/ofTypes.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/types/ofParameterGroup.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/types/ofColor.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/types/ofRectangle.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/3d/of3dUtils.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/3d/ofNode.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/3d/ofEasyCam.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/3d/of3dPrimitives.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/3d/ofEasyCam.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/3d/of3dUtils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/3d/ofCamera.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/3d/ofCamera.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/3d/ofNode.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/3d/ofMesh.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/3d/of3dPrimitives.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/3d/ofMesh.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/events/ofEventUtils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/events/ofEvents.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/events/ofEvents.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/ofImage.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/ofRendererCollection.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/ofBitmapFont.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/ofBitmapFont.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/ofPixels.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/ofTrueTypeFont.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/ofPath.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/of3dGraphics.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/ofPath.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/ofGraphics.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/ofTrueTypeFont.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/ofImage.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/ofGraphics.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/ofPolyline.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/of3dGraphics.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/ofRendererCollection.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/ofPixels.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/ofTessellator.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/ofTessellator.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/graphics/ofPolyline.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/video/ofVideoGrabber.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/video/ofVideoGrabber.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/video/ofVideoPlayer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/video/ofVideoPlayer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/app/ofAppRunner.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/app/ofAppRunner.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/app/ofAppBaseWindow.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/app/ofMainLoop.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/app/ofMainLoop.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/app/ofBaseApp.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/app/ofWindowSettings.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/ofMain.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofTexture.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofVbo.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofGLRenderer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofLight.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofGLProgrammableRenderer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofGLUtils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofVboMesh.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofVbo.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofBufferObject.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofGLProgrammableRenderer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofFbo.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofFbo.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofGLRenderer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofShader.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofVboMesh.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofMaterial.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofTexture.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofGLUtils.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofMaterial.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofLight.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofShader.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/gl/ofBufferObject.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofUtils.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofFpsCounter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofXml.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofFileUtils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofFpsCounter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofThread.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofMatrixStack.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofSystemUtils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofLog.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofTimer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofThread.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofURLFileLoader.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofXml.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofSystemUtils.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofTimer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofThreadChannel.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofNoise.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofConstants.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofFileUtils.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofUtils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofMatrixStack.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofURLFileLoader.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/utils/ofLog.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/sound/ofSoundStream.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/sound/ofBaseSoundStream.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/sound/ofSoundPlayer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/sound/ofSoundUtils.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/sound/ofSoundBuffer.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/sound/ofBaseSoundPlayer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/sound/ofSoundPlayer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/sound/ofSoundBuffer.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/sound/ofBaseSoundStream.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworks/sound/ofSoundStream.h" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../libs/openFrameworksCompiled/lib/ios/libofxiOS_iphoneos_Debug.a">
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworksCompiled/lib/ios/libofxiOS_iphoneos_Debug.a" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../libs/openFrameworksCompiled/project/ios">
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworksCompiled/project/ios/CoreOF.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworksCompiled/project/ios/Debug.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworksCompiled/project/ios/Shared.xcconfig" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworksCompiled/project/ios/iOS+OFLib.xcodeproj" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libs/openFrameworksCompiled/project/ios/Release.xcconfig" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src" />
+          <root url="file://$MODULE_DIR$/../../../libs/boost/include" />
+          <root url="file://$MODULE_DIR$/../../../libs/FreeImage/include" />
+          <root url="file://$MODULE_DIR$/../../../libs/tess2/include" />
+          <root url="file://$MODULE_DIR$/../../../libs/freetype/include" />
+          <root url="file://$MODULE_DIR$/../../../libs/openssl/include" />
+          <root url="file://$MODULE_DIR$/../../../libs/utf8cpp/include" />
+          <root url="file://$MODULE_DIR$/../../../libs/poco/include" />
+          <root url="file://$MODULE_DIR$/../../../libs/glew/include" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/XcodeKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/DTPerformanceSession.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CallKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PassKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/StoreKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudioKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MultipeerConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/IntentsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreVideo.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Messages.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SceneKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenGLES.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CFNetwork.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GSS.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioUnit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreSpotlight.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Metal.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/VideoToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Contacts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuickLook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SafariServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CloudKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Photos.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalPerformanceShaders.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Frameworks/AVFAudio.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Intents.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PushKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UserNotificationsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreText.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Speech.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ReplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SpriteKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Twitter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NetworkExtension.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudio.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreData.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MapKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ContactsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMedia.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaAccessibility.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UserNotifications.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ExternalAccessory.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Security.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ModelIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GLKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HomeKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameController.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreBluetooth.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AdSupport.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/VideoSubscriberAccount.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Social.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accounts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenAL.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NotificationCenter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/JavaScriptCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ImageIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PhotosUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NewsstandKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MessageUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreLocation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuartzCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/iAd.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMotion.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/8.0.0/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src" />
+          <root url="file://$MODULE_DIR$/../../../libs/boost/include" />
+          <root url="file://$MODULE_DIR$/../../../libs/FreeImage/include" />
+          <root url="file://$MODULE_DIR$/../../../libs/tess2/include" />
+          <root url="file://$MODULE_DIR$/../../../libs/freetype/include" />
+          <root url="file://$MODULE_DIR$/../../../libs/openssl/include" />
+          <root url="file://$MODULE_DIR$/../../../libs/utf8cpp/include" />
+          <root url="file://$MODULE_DIR$/../../../libs/poco/include" />
+          <root url="file://$MODULE_DIR$/../../../libs/glew/include" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/XcodeKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/InterfaceBuilderKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer/Library/Frameworks/DTPerformanceSession.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/Library/Frameworks/XCTest.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CallKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PassKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/StoreKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudioKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MultipeerConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AssetsLibrary.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchConnectivity.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/IntentsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreVideo.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Messages.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SceneKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenGLES.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CFNetwork.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accelerate.framework/Frameworks/vecLib.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBookUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WatchKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GSS.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioUnit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreSpotlight.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/LocalAuthentication.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HealthKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Metal.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/VideoToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Contacts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuickLook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SafariServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/WebKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CloudKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreImage.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/EventKitUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Photos.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalPerformanceShaders.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVFoundation.framework/Frameworks/AVFAudio.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Intents.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PushKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreTelephony.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UserNotificationsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreText.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Speech.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ReplayKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SpriteKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Twitter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NetworkExtension.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreAudio.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreData.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UIKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MapKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ContactsUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMedia.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MediaAccessibility.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/UserNotifications.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ExternalAccessory.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Security.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ModelIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GLKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MetalKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/HomeKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameController.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AVKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreBluetooth.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AdSupport.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMIDI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/VideoSubscriberAccount.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Social.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Accounts.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/OpenAL.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NotificationCenter.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/JavaScriptCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/ImageIO.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/PhotosUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/AddressBook.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/NewsstandKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/MessageUI.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/GameKit.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreLocation.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/QuartzCore.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/iAd.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/CoreMotion.framework/Headers" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/8.0.0/include" />
+          <root url="file:///Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1" />
+        </SOURCES>
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxGui.h" />
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxToggle.h" />
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxButton.h" />
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxSliderGroup.cpp" />
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxPanel.h" />
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxButton.cpp" />
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxLabel.cpp" />
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxPanel.cpp" />
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxBaseGui.h" />
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxLabel.h" />
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxBaseGui.cpp" />
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxSlider.cpp" />
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxSlider.h" />
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxToggle.cpp" />
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxGuiGroup.h" />
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxSliderGroup.h" />
+          <root url="file://$MODULE_DIR$/../../../addons/ofxGui/src/ofxGuiGroup.cpp" />
+        </excluded>
+      </library>
+    </orderEntry>
+  </component>
+</module>
